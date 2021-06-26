@@ -409,7 +409,6 @@
         <!-- Grid row -->
         <div class="row">
 
-            @foreach ($rooms as $room)
 
           <!-- Grid column -->
           <div class="col-md-6 col-lg-4">
@@ -432,17 +431,17 @@
                 <!--Title-->
                 <a>
                   <h5 class="font-weight-bold text-uppercase">
-                    <strong>{{ $room->name }}</strong>
+                    <strong>Room Name</strong>
                   </h5>
                 </a>
                 <a>
-                  <span class="badge badge-info py-2 px-2">Php {{ $room->price }}</span>
+                  <span class="badge badge-info py-2 px-2">Php 100.00</span>
                 </a>
 
                 <!--Text-->
                 <p class="grey-text mt-2">
 
-                    {{ $room->description }}
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam exercitationem ad quae iure, natus eum saepe molestias architecto eaque est animi, iusto illum officia libero reiciendis earum eius quos accusamus!
                   <!--Grid row-->
                   <div class="row">
 
@@ -487,9 +486,161 @@
 
           </div>
           <!-- Grid column -->
-          @endforeach
 
 
+          <!-- Grid column -->
+          <div class="col-md-6 col-lg-4">
+
+            <!--Card-->
+            <div class="card card-personal mb-4">
+
+              <!--Card image-->
+              <div class="view overlay">
+                <img class="card-img-top" src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/299103371.jpg?k=04c39a1c71e7afed57dbb4205f7ff55b3c93c9bc578570d61e5cbe8dd8c59ea8&o=&hp=1"
+                  alt="Card image cap">
+                <a href="#!">
+                  <div class="mask rgba-white-slight"></div>
+                </a>
+              </div>
+              <!--Card image-->
+
+              <!--Card content-->
+              <div class="card-body">
+                <!--Title-->
+                <a>
+                  <h5 class="font-weight-bold text-uppercase">
+                    <strong>Room Name</strong>
+                  </h5>
+                </a>
+                <a>
+                  <span class="badge badge-info py-2 px-2">Php 100.00</span>
+                </a>
+
+                <!--Text-->
+                <p class="grey-text mt-2">
+
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam exercitationem ad quae iure, natus eum saepe molestias architecto eaque est animi, iusto illum officia libero reiciendis earum eius quos accusamus!
+                  <!--Grid row-->
+                  <div class="row">
+
+                    <!--Grid column-->
+                    <div class="col-lg-4 col-md-12 text-center">
+                      <p class="dark-grey-text">
+                        <i class="fas fa-hotel dark-grey-text" aria-hidden="true"></i> 3 beds</p>
+                    </div>
+                    <!--Grid column-->
+
+                    <!--Grid column-->
+                    <div class="col-lg-4 col-md-12 text-center">
+                      <p class="dark-grey-text">
+                        <i class="fas fa-utensils dark-grey-text" aria-hidden="true"></i> Launches</p>
+                    </div>
+                    <!--Grid column-->
+
+                    <!--Grid column-->
+                    <div class="col-lg-4 col-md-12 text-center">
+                      <p class="dark-grey-text">
+                        <i class="fas fa-wifi dark-grey-text" aria-hidden="true"></i> Wi-Fi</p>
+                    </div>
+                    <!--Grid column-->
+
+                  </div>
+                  <!--Grid row-->
+                </p>
+                <hr>
+                <!--Grid column-->
+                <div class="col-12 text-center">
+                  <button class="btn btn-info btn-sm font-weight-bold btn-rounded">
+                    <strong>Book a room</strong>
+                  </button>
+                </div>
+                <!--Grid column-->
+
+              </div>
+              <!--Card content-->
+
+            </div>
+            <!--Card-->
+
+          </div>
+          <!-- Grid column -->
+
+          <!-- Grid column -->
+          <div class="col-md-6 col-lg-4">
+
+            <!--Card-->
+            <div class="card card-personal mb-4">
+
+              <!--Card image-->
+              <div class="view overlay">
+                <img class="card-img-top" src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/299103371.jpg?k=04c39a1c71e7afed57dbb4205f7ff55b3c93c9bc578570d61e5cbe8dd8c59ea8&o=&hp=1"
+                  alt="Card image cap">
+                <a href="#!">
+                  <div class="mask rgba-white-slight"></div>
+                </a>
+              </div>
+              <!--Card image-->
+
+              <!--Card content-->
+              <div class="card-body">
+                <!--Title-->
+                <a>
+                  <h5 class="font-weight-bold text-uppercase">
+                    <strong>Room Name</strong>
+                  </h5>
+                </a>
+                <a>
+                  <span class="badge badge-info py-2 px-2">Php 100.00</span>
+                </a>
+
+                <!--Text-->
+                <p class="grey-text mt-2">
+
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam exercitationem ad quae iure, natus eum saepe molestias architecto eaque est animi, iusto illum officia libero reiciendis earum eius quos accusamus!
+                  <!--Grid row-->
+                  <div class="row">
+
+                    <!--Grid column-->
+                    <div class="col-lg-4 col-md-12 text-center">
+                      <p class="dark-grey-text">
+                        <i class="fas fa-hotel dark-grey-text" aria-hidden="true"></i> 3 beds</p>
+                    </div>
+                    <!--Grid column-->
+
+                    <!--Grid column-->
+                    <div class="col-lg-4 col-md-12 text-center">
+                      <p class="dark-grey-text">
+                        <i class="fas fa-utensils dark-grey-text" aria-hidden="true"></i> Launches</p>
+                    </div>
+                    <!--Grid column-->
+
+                    <!--Grid column-->
+                    <div class="col-lg-4 col-md-12 text-center">
+                      <p class="dark-grey-text">
+                        <i class="fas fa-wifi dark-grey-text" aria-hidden="true"></i> Wi-Fi</p>
+                    </div>
+                    <!--Grid column-->
+
+                  </div>
+                  <!--Grid row-->
+                </p>
+                <hr>
+                <!--Grid column-->
+                <div class="col-12 text-center">
+                  <button class="btn btn-info btn-sm font-weight-bold btn-rounded">
+                    <strong>Book a room</strong>
+                  </button>
+                </div>
+                <!--Grid column-->
+
+              </div>
+              <!--Card content-->
+
+            </div>
+            <!--Card-->
+
+          </div>
+          <!-- Grid column -->
         </div>
         <!-- Grid row -->
 

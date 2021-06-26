@@ -16,7 +16,7 @@
             <a class="nav-link" href="#about" data-offset="100">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#room" data-offset="100">Rooms</a>
+            <a class="nav-link" href="#room" data-offset="100">Testimonials</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#facilities" data-offset="100">Facilities</a>
