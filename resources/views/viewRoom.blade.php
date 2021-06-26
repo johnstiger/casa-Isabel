@@ -191,7 +191,7 @@
                   <div class="col-md-12 text-center text-md-left text-md-right" id="bookButton-wrapper">
 
                     <a class="btn btn-primary btn-rounded" href="/reservation">
-                      <i class="fas fa-cart-plus mr-2" aria-hidden="true"></i> Book A Room
+                      <i class="fas fa-book mr-2" aria-hidden="true"></i> Book A Room
                     </a>
 
                   </div>
@@ -563,46 +563,13 @@
 
                     <strong>
 
-                      <a href="" class="dark-grey-text">Sony TV-675i</a>
+                      <a href="" class="dark-grey-text">Room 1</a>
 
                     </strong>
 
                   </h5>
 
-                  <!-- Rating -->
-                  <ul class="rating">
 
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star grey-text"></i>
-
-                    </li>
-
-                  </ul>
 
                   <!-- Card footer -->
                   <div class="card-footer pb-0">
@@ -611,19 +578,12 @@
 
                       <span class="float-left">
 
-                        <strong>1439$</strong>
-
-                      </span>
-
-                      <span class="float-right">
-
-                        <a class="" data-toggle="tooltip" data-placement="top" title="Add to Cart">
-
-                          <i class="fas fa-shopping-cart ml-3"></i>
-
+                        <a href="{{ route('view.room') }}">
+                            <strong>Check Details</strong>
                         </a>
 
                       </span>
+
 
                     </div>
 
@@ -665,46 +625,12 @@
 
                     <strong>
 
-                      <a href="" class="dark-grey-text">Samsung 786i</a>
+                      <a href="" class="dark-grey-text">Room 2</a>
 
                     </strong>
 
                 </h5>
 
-                  <!-- Rating -->
-                  <ul class="rating">
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star grey-text"></i>
-
-                    </li>
-
-                  </ul>
 
                   <!-- Card footer -->
                   <div class="card-footer pb-0">
@@ -713,19 +639,12 @@
 
                       <span class="float-left">
 
-                        <strong>1439$</strong>
-
-                      </span>
-
-                      <span class="float-right">
-
-                        <a class="" data-toggle="tooltip" data-placement="top" title="Add to Cart">
-
-                          <i class="fas fa-shopping-cart ml-3"></i>
-
+                        <a href="{{ route('view.room') }}">
+                            <strong>Check Details</strong>
                         </a>
 
                       </span>
+
 
                     </div>
 
@@ -767,46 +686,13 @@
 
                     <strong>
 
-                      <a href="" class="dark-grey-text">Canon 675-D</a>
+                      <a href="" class="dark-grey-text">Room 3</a>
 
                     </strong>
 
                   </h5>
 
-                  <!-- Rating -->
-                  <ul class="rating">
 
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                  </ul>
 
                   <!-- Card footer -->
                   <div class="card-footer pb-0">
@@ -815,19 +701,12 @@
 
                       <span class="float-left">
 
-                        <strong>1439$</strong>
-
-                      </span>
-
-                      <span class="float-right">
-
-                        <a class="" data-toggle="tooltip" data-placement="top" title="Add to Cart">
-
-                          <i class="fas fa-shopping-cart ml-3"></i>
-
+                        <a href="{{ route('view.room') }}">
+                            <strong>Check Details</strong>
                         </a>
 
                       </span>
+
 
                     </div>
 
@@ -875,47 +754,14 @@
 
                     <strong>
 
-                      <a href="" class="dark-grey-text">Samsung V54</a>
+                      <a href="" class="dark-grey-text">Room 4</a>
 
                     </strong>
 
                   </h5>
 
 
-                  <!-- Rating -->
-                  <ul class="rating">
 
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                  </ul>
 
                   <!-- Card footer -->
                   <div class="card-footer pb-0">
@@ -924,19 +770,12 @@
 
                       <span class="float-left">
 
-                        <strong>1439$</strong>
-
-                      </span>
-
-                      <span class="float-right">
-
-                        <a class="" data-toggle="tooltip" data-placement="top" title="Add to Cart">
-
-                          <i class="fas fa-shopping-cart ml-3"></i>
-
+                        <a href="{{ route('view.room') }}">
+                            <strong>Check Details</strong>
                         </a>
 
                       </span>
+
 
                     </div>
 
@@ -978,47 +817,13 @@
 
                     <strong>
 
-                      <a href="" class="dark-grey-text">Dell V-964i</a>
+                      <a href="" class="dark-grey-text">Room 5</a>
 
                     </strong>
 
                   </h5>
 
 
-                  <!-- Rating -->
-                  <ul class="rating">
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                  </ul>
 
                   <!-- Card footer -->
                   <div class="card-footer pb-0">
@@ -1027,19 +832,13 @@
 
                       <span class="float-left">
 
-                        <strong>1439$</strong>
-
-                      </span>
-
-                      <span class="float-right">
-
-                        <a class="" data-toggle="tooltip" data-placement="top" title="Add to Cart">
-
-                          <i class="fas fa-shopping-cart ml-3"></i>
-
+                        <a href="{{ route('view.room') }}">
+                            <strong>Check Details</strong>
                         </a>
 
                       </span>
+
+
 
                     </div>
 
@@ -1081,46 +880,12 @@
 
                     <strong>
 
-                      <a href="" class="dark-grey-text">iPad PRO</a>
+                      <a href="" class="dark-grey-text">Room 6</a>
 
                     </strong>
 
                   </h5>
 
-                  <!-- Rating -->
-                  <ul class="rating">
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star grey-text"></i>
-
-                    </li>
-
-                  </ul>
 
                   <!-- Card footer -->
                   <div class="card-footer pb-0">
@@ -1129,19 +894,12 @@
 
                       <span class="float-left">
 
-                        <strong>1439$</strong>
-
-                      </span>
-
-                      <span class="float-right">
-
-                        <a class="" data-toggle="tooltip" data-placement="top" title="Add to Cart">
-
-                          <i class="fas fa-shopping-cart ml-3"></i>
-
+                        <a href="{{ route('view.room') }}">
+                            <strong>Check Details</strong>
                         </a>
 
                       </span>
+
 
                     </div>
 
@@ -1189,47 +947,13 @@
 
                     <strong>
 
-                      <a href="" class="dark-grey-text">Asus CT-567</a>
+                      <a href="" class="dark-grey-text">Room 7</a>
 
                     </strong>
 
                   </h5>
 
 
-                  <!-- Rating -->
-                  <ul class="rating">
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                  </ul>
 
                   <!-- Card footer -->
                   <div class="card-footer pb-0">
@@ -1238,19 +962,13 @@
 
                       <span class="float-left">
 
-                        <strong>1439$</strong>
-
-                      </span>
-
-                      <span class="float-right">
-
-                        <a class="" data-toggle="tooltip" data-placement="top" title="Add to Cart">
-
-                          <i class="fas fa-shopping-cart ml-3"></i>
-
+                        <a href="{{ route('view.room') }}">
+                            <strong>Check Details</strong>
                         </a>
 
                       </span>
+
+
 
                     </div>
 
@@ -1292,46 +1010,11 @@
 
                     <strong>
 
-                      <a href="" class="dark-grey-text">Dell 786i</a>
+                      <a href="" class="dark-grey-text">Room 8</a>
 
                     </strong>
 
                   </h5>
-
-                  <!-- Rating -->
-                  <ul class="rating">
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star grey-text"></i>
-
-                    </li>
-
-                  </ul>
 
                   <!-- Card footer -->
                   <div class="card-footer pb-0">
@@ -1340,19 +1023,12 @@
 
                       <span class="float-left">
 
-                        <strong>1439$</strong>
-
-                      </span>
-
-                      <span class="float-right">
-
-                        <a class="" data-toggle="tooltip" data-placement="top" title="Add to Cart">
-
-                          <i class="fas fa-shopping-cart ml-3"></i>
-
+                        <a href="{{ route('view.room') }}">
+                            <strong>Check Details</strong>
                         </a>
 
                       </span>
+
 
                     </div>
 
@@ -1394,48 +1070,12 @@
 
                     <strong>
 
-                      <a href="" class="dark-grey-text">Headphones</a>
+                      <a href="" class="dark-grey-text">Room 9</a>
 
                     </strong>
 
                   </h5>
 
-
-
-                  <!-- Rating -->
-                  <ul class="rating">
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                    <li>
-
-                      <i class="fas fa-star blue-text"></i>
-
-                    </li>
-
-                  </ul>
 
                   <!-- Card footer -->
                   <div class="card-footer pb-0">
@@ -1444,19 +1084,13 @@
 
                       <span class="float-left">
 
-                        <strong>1439$</strong>
-
-                      </span>
-
-                      <span class="float-right">
-
-                        <a class="" data-toggle="tooltip" data-placement="top" title="Add to Cart">
-
-                          <i class="fas fa-shopping-cart ml-3"></i>
-
+                        <a href="{{ route('view.room') }}">
+                            <strong>Check Details</strong>
                         </a>
 
                       </span>
+
+
 
                     </div>
 

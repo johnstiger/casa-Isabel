@@ -472,9 +472,9 @@
                 <hr>
                 <!--Grid column-->
                 <div class="col-12 text-center">
-                  <button class="btn btn-info btn-sm font-weight-bold btn-rounded">
+                  <a href="{{ route('view.room') }}" class="btn btn-info btn-sm font-weight-bold btn-rounded">
                     <strong>Book a room</strong>
-                  </button>
+                  </a>
                 </div>
                 <!--Grid column-->
 
@@ -550,9 +550,9 @@
                 <hr>
                 <!--Grid column-->
                 <div class="col-12 text-center">
-                  <button class="btn btn-info btn-sm font-weight-bold btn-rounded">
+                  <a href="{{ route('view.room') }}" class="btn btn-info btn-sm font-weight-bold btn-rounded">
                     <strong>Book a room</strong>
-                  </button>
+                  </a>
                 </div>
                 <!--Grid column-->
 
@@ -627,9 +627,9 @@
                 <hr>
                 <!--Grid column-->
                 <div class="col-12 text-center">
-                  <button class="btn btn-info btn-sm font-weight-bold btn-rounded">
+                  <a href="{{ route('view.room') }}" class="btn btn-info btn-sm font-weight-bold btn-rounded">
                     <strong>Book a room</strong>
-                  </button>
+                  </a>
                 </div>
                 <!--Grid column-->
 

@@ -272,7 +272,7 @@
 
                                     <div class="md-form">
                                         <input placeholder="Selected date" name="start_date" value="{{ old('start_date') }}" type="text" id="date-picker-example" class="form-control datepicker">
-                                        <label for="date-picker-example" class="active">Start Date</label>
+                                        <label for="date-picker-example" class="active">Arrival Date</label>
                                         @error('start_date')
                                         <span class="error">*{{ $message }}</span>
 
@@ -287,7 +287,7 @@
 
                                     <div class="md-form">
                                         <input placeholder="Selected date" name="end_date" value="{{ old('end_date') }}" type="text" id="date-picker-example" class="form-control datepicker">
-                                        <label for="date-picker-example" class="active">End Date</label>
+                                        <label for="date-picker-example" class="active">Departure Date</label>
                                         @error('end_date')
                                         <span class="error">*{{ $message }}</span>
 
